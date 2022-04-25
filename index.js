@@ -1,3 +1,3 @@
-const fizzbuzz = require('./src/fizzbuzz');
+const myFunctions = require('./src/myFunctions');
 
-console.log(fizzbuzz.checker())
+console.log(myFunctions.hello())

@@ -1,6 +1,6 @@
-const fizzbuzz = require('../src/fizzbuzz');
+const myFunctions = require('../src/myFunctions');
 
-describe('FizzBuzz', () => {
+describe('My Functions', () => {
     // test('sample test A', () => {
 
     // })
