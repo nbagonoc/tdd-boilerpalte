@@ -1,3 +1,3 @@
 const fizzbuzz = require('./src/fizzbuzz');
 
-console.log(fizzbuzz.test())
+console.log(fizzbuzz.checker())

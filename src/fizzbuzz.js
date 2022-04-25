@@ -1,5 +1,5 @@
-const test = () => {
+const checker = () => {
     return 'hello world'
 }
 
-module.exports = { test }
+module.exports = { checker }
